@@ -1,8 +1,6 @@
-<img class="intro-right" src="logo-theologicus.png">
+<img class="intro-right" src="confession-1689/art-1689.png">
 
 # The 1689 London Baptist Confession of Faith: Some Expository Thoughts
-
-by [Joseph Louthan](author.md)
 
 ## The Preface
 
