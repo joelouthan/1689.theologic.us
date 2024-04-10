@@ -1,0 +1,3 @@
+[submodule "src/confession-1689"]
+	path = src/confession-1689
+	url = git@github.com:joelouthan/theologicus-1689.git
