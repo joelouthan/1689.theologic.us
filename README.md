@@ -13,16 +13,7 @@ of my only, only Lord Jesus.
 
 ## releases
 
-- v3.3.1 (2024 Jan 7) [Swift port](https://github.com/joelouthan/com.theologicus)
-- v3.3 (2023 Jul 16) [Apostles' Creed](https://theologic.us/creed-apostles/index.md)
-- v3.2 (2023 Jul 04) [Book Reviews](https://theologic.us/reviews/index.md)
-- v3.1 (2023 Jun 14) [Ruth](https://theologic.us/ruth/index.md)
-- v3.0 (2023 Jun 09) [Hugo to mdBook](https://theologic.us)
-- v2.4 (2023 Apr 13) [The Epistle to the Romans](https://theologic.us/romans/index.md)
-- v2.3 (2023 Feb 08) [The Gospel of Mark](https://theologic.us/mark/index.md)
-- v2.2 (2022 Sep 08) [The Pastoral Epistles](https://theologic.us/pastorals/index.md)
-- v2.1 (2021 Apr 29) [The Gospel of Luke](https://theologic.us/luke/index.md)
-- v2.0 (2020 Apr 20) [Migrated from Wordpress to Hugo](https://github.com/joelouthan/theologic.us)
+- v0.1 (2024 Apr 10) Ported 1689 over to submodules
 
 ## running
 
