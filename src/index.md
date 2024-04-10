@@ -1,13 +1,13 @@
 <img class="intro-right" src="logo-theologicus.png">
 
-# Theologicus: Some Expository Thoughts
+# The 1689 London Baptist Confession of Faith: Some Expository Thoughts
 
-## The Thought
+by [Joseph Louthan](author.md)
+
+## The Preface
 
 >No pen, no words, no image can express to you the loveliness of my only, only Lord Jesus.  
 >\- Samuel Rutherford
-
-## The Introduction
 
 Once upon a time, my kids were curious about the books in my office, and asked, "Papa, what are all these books about." I told them, "Mostly, they all say the same thing--that Jesus loves me, this I know, for the Bible tells me so."
 
@@ -26,15 +26,3 @@ In essence, Theologicus--all of my completed works, sermons, commentaries and st
 >Psalms 17:15 (CSB) But I will see your face in righteousness; when I awake, I will be satisfied with your presence.
 
 Corem Deo. I will live before the face of my God. And I know that one day, I will behold my God.
-
-#### tech
-
-[![tools](https://skillicons.dev/icons?i=vscode,vim,rust)]()
-[![tools](https://skillicons.dev/icons?i=md,css,html)]()
-[![tools](https://skillicons.dev/icons?i=bash,git,github)]()
-
-<a href="https://www.netlify.com"><img src="https://www.netlify.com/v3/img/components/netlify-color-accent.svg" alt="Deploys by Netlify" /></a>
-
-![Crates.io](https://img.shields.io/crates/v/mdbook)
-
-![Crates.io](https://img.shields.io/crates/v/mdbook-toc)

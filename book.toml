@@ -3,7 +3,7 @@ authors = ["Joseph Louthan"]
 language = "en"
 multilingual = false
 src = "src"
-title = "The Second London Baptist Confession: Some Expository Thoughts"
+title = "Theologicus: 1689"
 description = "Still no pen, no words, no image can express to you the loveliness of my only, only Lord Jesus. (Samuel Rutherford)"
 
 [rust]
