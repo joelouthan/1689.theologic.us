@@ -1,5 +1,5 @@
 # Theologicus
-<img style="float:right; border-radius: 4px; margin-right: 15px; margin-bottom: 10px" src="src/art-1689.png" width="100" align="right">Still no pen, no words, no image  
+<img style="float:right; border-radius: 4px; margin-right: 15px; margin-bottom: 10px" src="src/art-1689.png" width="75" align="right">Still no pen, no words, no image  
 can express to you the loveliness  
 of my only, only Lord Jesus.  
 \- Samuel Rutherford
