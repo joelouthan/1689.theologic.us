@@ -1,14 +1,11 @@
 # Theologicus
-<img style="float:left; border-radius: 4px; margin-right: 15px; margin-bottom: 10px" src="src/logo-theologicus.png" width="100" align="left">Still no pen, no words, no image  
+<img style="float:left; border-radius: 4px; margin-right: 15px; margin-bottom: 10px" src="src/confession-1689/art-1689.png" width="100" align="left">Still no pen, no words, no image  
 can express to you the loveliness  
 of my only, only Lord Jesus.  
 \- Samuel Rutherford
 
 ## upcoming
 
-- [1 Samuel](https://theologic.us/samuel-1/index.html)
-- [Matthew](https://theologic.us/matthew/index.md)
-- [Christ Came to Save Sinners](https://theologic.us/doctrine-christ-saves/index.html)
 - [1689 Second London Baptist Confession](https://theologic.us/confession-1689/index.md)
 
 ## releases
